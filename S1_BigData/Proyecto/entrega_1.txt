@@ -1,0 +1,4 @@
+Christian Córdoba <cecordobat@unal.edu.co> 
+Diego Feliciano <dafelicianor@unal.edu.co> (entrega)
+Ivonne Ruiz <icruizp@unal.edu.co>
+GitHub repo: https://github.com/MLDS-UN-ProjectTeam/MLDS3
